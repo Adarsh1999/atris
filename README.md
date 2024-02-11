@@ -63,7 +63,7 @@ With ATRIS you can get super focussed audio recording functionality for your mee
 
   
 
-![Features split image 01](https://atris-frontend-git-master-jainal09.vercel.app/lpage/assets/recording.svg)
+<img src="https://atris-frontend-git-master-jainal09.vercel.app/lpage/assets/recording.svg" alt="Features split image 01" width="400">
 
   
 
@@ -75,7 +75,7 @@ Customize the transcribe of your audio from our intiutive UI by collabrating wit
 
   
 
-<img src="https://atris-frontend-git-master-jainal09.vercel.app/lpage/assets/note_taking_made_easy.png" alt="Features split image 02" width="200">
+<img src="https://atris-frontend-git-master-jainal09.vercel.app/lpage/assets/note_taking_made_easy.png" alt="Features split image 02" width="400">
 
 
   
@@ -88,7 +88,7 @@ Get the presence of each and every member in your meeting and the sentences they
 
   
 
-<img src="https://atris-frontend-git-master-jainal09.vercel.app/lpage/assets/diarilization.svg" alt="Features split image 03" width="200">
+<img src="https://atris-frontend-git-master-jainal09.vercel.app/lpage/assets/diarilization.svg" alt="Features split image 03" width="400">
 
 
   
@@ -101,7 +101,7 @@ We assist you in annotating you keyword entities to you that is most important t
 
   
 
-![Features split image 02](https://atris-frontend-git-master-jainal09.vercel.app/lpage/assets/annote.png)
+<img src="https://atris-frontend-git-master-jainal09.vercel.app/lpage/assets/annote.png" alt="Features split image 04" width="400">
 
   
 
@@ -113,7 +113,8 @@ We process your entire conversation to give you visualization of how did the ent
 
   
 
-![Features split image 03](https://atris-frontend-git-master-jainal09.vercel.app/lpage/assets/16.png)
+<img src="https://atris-frontend-git-master-jainal09.vercel.app/lpage/assets/16.png" alt="Features split image 05" width="400">
+
 
   
 
@@ -125,7 +126,7 @@ We know how important is your each and every conversation is, so we taimport use
 
   
 
-![Features split image 02](https://atris-frontend-git-master-jainal09.vercel.app/lpage/assets/search.png)
+<img src="https://atris-frontend-git-master-jainal09.vercel.app/lpage/assets/search.png" alt="Features split image 06" width="400">
 
   
 
