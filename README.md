@@ -75,7 +75,8 @@ Customize the transcribe of your audio from our intiutive UI by collabrating wit
 
   
 
-![Features split image 02](https://atris-frontend-git-master-jainal09.vercel.app/lpage/assets/note_taking_made_easy.png)
+<img src="https://atris-frontend-git-master-jainal09.vercel.app/lpage/assets/note_taking_made_easy.png" alt="Features split image 02" width="200">
+
 
   
 
@@ -87,7 +88,8 @@ Get the presence of each and every member in your meeting and the sentences they
 
   
 
-![Features split image 03](https://atris-frontend-git-master-jainal09.vercel.app/lpage/assets/diarilization.svg)
+<img src="https://atris-frontend-git-master-jainal09.vercel.app/lpage/assets/diarilization.svg" alt="Features split image 03" width="200">
+
 
   
 
